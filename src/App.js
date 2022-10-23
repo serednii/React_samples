@@ -3,7 +3,6 @@ import React from 'react'
 
 function App() {
 
-  // let count = 0;
   const [count, steCount] = React.useState(0);
 
   const onClickPlus = ()=>{
